@@ -5,7 +5,7 @@ branches:
     - master
 
 script: 
-- cd SampleToDo/
+- cd SimpleToDo/
 - ./gradlew clean assembleDebug
 
 android:
