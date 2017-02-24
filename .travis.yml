@@ -4,7 +4,9 @@ branches:
   only:
     - master
 
-script: "./gradlew clean assembleDebug"
+script: 
+- cd SampleToDo/
+- ./gradlew clean assembleDebug
 
 android:
   components:
