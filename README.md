@@ -1,5 +1,7 @@
 # Pre-work - *To Do List App*
 
+[![Build Status](https://travis-ci.org/sushantmagoo/CodePath_Android_PreWork.svg?branch=master)](https://travis-ci.org/sushantmagoo/CodePath_Android_PreWork)
+
 **SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Sushant Magoo**
