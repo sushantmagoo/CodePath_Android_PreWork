@@ -1,6 +1,7 @@
 language: android
+jdk: oraclejdk8
 
-script: 
+script:
 - cd SimpleToDo/
 - chmod +x gradlew
 - ./gradlew clean assembleDebug
