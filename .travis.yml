@@ -1,0 +1,14 @@
+language: android
+
+script: 
+- cd SimpleToDo/
+- chmod +x gradlew
+- ./gradlew clean assembleDebug
+
+android:
+  components:
+      - platform-tools
+      - tools
+      - build-tools-25.0.2
+      - android-25
+      - extra-android-m2repository
